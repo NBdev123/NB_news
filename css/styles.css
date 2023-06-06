@@ -244,3 +244,7 @@
     transition: .3s ;
     box-shadow: 2px 2px 5px var(--gray-color);
 }
+
+body{
+    background-color: aqua;
+}
